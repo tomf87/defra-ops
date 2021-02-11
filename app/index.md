@@ -1,13 +1,13 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "Weeknotes for the DEFRA operations team"
+description: "#weeknotes are blogposts about our working week."
 pagination:
   data: collections.all
   reverse: true
   size: 50
 posts:
-  title: Getting started
+  title: Weeknotes
 eleventyComputed:
   eleventyNavigation:
     key: home
