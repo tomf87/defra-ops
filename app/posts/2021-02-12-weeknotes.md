@@ -1,7 +1,7 @@
 ---
 title: Weeknotes w/c 08/02/21
 description: 8th to 12th February 2021
-date: 2021-01-12
+date: 2021-02-15
 ---
 
 ## This week in UCD Operations
