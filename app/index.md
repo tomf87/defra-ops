@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Weeknotes for the DEFRA operations team"
+title: "Weeknotes for the Defra UCD Operations team"
 description: "#weeknotes are blogposts about our working week."
 pagination:
   data: collections.all
