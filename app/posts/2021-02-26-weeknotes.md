@@ -1,7 +1,7 @@
 ---
 title: Weeknotes w/c 22/02/21
 description: 22nd to 26th February 2021
-date: 2021-02-22
+date: 2021-03-01
 permalink: "weeknotes/weeknotes-for-220221.html"
 ---
 
