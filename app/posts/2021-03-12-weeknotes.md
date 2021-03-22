@@ -1,8 +1,8 @@
 ---
-title: Weeknotes w/c 07/03/21
-description: 7th to 12th March 2021
+title: Weeknotes w/c 08/03/21
+description: 8th to 12th March 2021
 date: 2021-03-15
-permalink: "weeknotes/weeknotes-for-070321.html"
+permalink: "weeknotes/weeknotes-for-080321.html"
 ---
 
 ## This week in UCD Operations
