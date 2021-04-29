@@ -67,7 +67,7 @@ Below are updates from each practice, and when you get to the end, there’s som
 
 ### What didn’t go well
 
-* Catching up on emails, Slack and admin - always a pain when returning from leave I guess. 📧📧📧
+* Catching up on emails, Slack and other admin! 📧📧📧
 
 ---
 
