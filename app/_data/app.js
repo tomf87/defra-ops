@@ -1,3 +1,3 @@
 module.exports = {
-  productName: 'Weeknotes'
+  productName: 'Defra UCD Operations Weeknotes'
 }
